@@ -29,7 +29,7 @@
 ---
 
 ## Demo
-[**Click here to view the p5.js Demo**]([https://editor.p5js.org/shiqianl18/full/c7Ufvy6yt])
+[**Click here to view the p5.js Demo**](https://editor.p5js.org/shiqianl18/full/c7Ufvy6yt)
 
 ---
 
